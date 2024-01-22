@@ -1,0 +1,26 @@
+#hide{
+    display: none;
+    font-style: italic;
+    font-size: 20px;
+}
+#hide1{
+    display: none;
+   
+}
+body{
+    
+    text-align: justify;
+    background-color: darkkhaki;
+   
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBUydQONe0F9SEbxr3F0f-5fKmEPnX0iNJQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn{
+    height: 60px;
+    width: 100px;
+    color: black;
+    border: 4px double black;
+    background-color: green;
+    font-size: 20px;
+}
